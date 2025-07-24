@@ -8,7 +8,7 @@
     }
   ],
   "type": "library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "minimum-stability": "stable",
   "prefer-stable": false,
@@ -20,7 +20,7 @@
   "require": {
     "php": ">=8.2",
     "ext-ctype": "*",
-    "a-digi/dependency-injection": "1.0.0",
+    "a-digi/dependency-injection": "^1.0.0",
     "psr/http-message": "^2.0"
   },
   "require-dev": {
